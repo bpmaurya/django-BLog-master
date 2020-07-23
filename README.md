@@ -6,7 +6,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pypi.org/project/Django/) to install foobar.
+Use the package manager [pip](https://pypi.org/project/Django/) to install Django.
 
 ```bash
 pip install django
