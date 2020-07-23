@@ -2,7 +2,7 @@
 This is blog websites using django framework
 # django
 
-Foobar is a Python library for dealing with word pluralization.
+django is a Python framework for rendering best sites.
 
 ## Installation
 
