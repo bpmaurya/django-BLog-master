@@ -26,7 +26,7 @@ SECRET_KEY = '$vrkdj5#ufirq+e8(e6&w22r&vrhcep9dl3#9^)v!gmr*xrchz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ec2-54-242-255-56.compute-1.amazonaws.com']
 
 
 # Application definition
