@@ -1,7 +1,6 @@
 # django-BLog-master
 <<<<<<< HEAD
 # admin - tejprakash 
-# password - 12345
 This is blog websites # in development phase using django framework
 =======
 This is blog websites using django framework
