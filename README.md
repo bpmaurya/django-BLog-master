@@ -1,3 +1,15 @@
+Homepage
+![image](https://user-images.githubusercontent.com/61457302/124948913-c00b1000-e02e-11eb-8d00-4eec4e327c21.png)
+bloglist
+![image](https://user-images.githubusercontent.com/61457302/124949003-d31de000-e02e-11eb-8f22-013f9980fe59.png)
+
+single blog page wiht facebook like comment
+![image](https://user-images.githubusercontent.com/61457302/124949229-ff396100-e02e-11eb-9d95-a972fda23307.png)
+
+#signUp
+![image](https://user-images.githubusercontent.com/61457302/124949503-3f98df00-e02f-11eb-8755-cf55a85a5f2e.png)
+
+
 # django-BLog-master
 <<<<<<< HEAD
 # admin - tejprakash 
